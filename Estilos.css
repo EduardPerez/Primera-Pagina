@@ -1,0 +1,127 @@
+h1 {
+    font-size: 37px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.hola {
+    font-size: 29px;
+    font-family: cursive;
+    margin-left: auto;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: cursive;
+}
+
+body {
+    text-align: justify;
+    border: 4px solid black;
+    padding: 3px;
+    width: min-content;
+    margin: 10px auto;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(209, 173, 196);
+    padding: 1px;
+    border: 3px solid black;
+}
+
+.grupo {
+    background: rgb(255, 204, 255);
+    margin: auto;
+    width: 1000px;
+    padding: 35px;
+    border: 1px solid black;
+}
+
+.menu {
+    background: rgb(125, 208, 247);
+    padding: 1x;
+    border: 3px solid black;
+    text-align: justify;
+}
+
+.menu li {
+    list-style: none;
+    padding: 10px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+}
+
+.seccion {
+    margin: 14px;
+    width: 72%;
+    float: left;
+}
+
+.lateral {
+    margin: 20px 2px;
+    width: 23%;
+    float: left;
+}
+
+.lateral blockquote {
+    border: 1px solid rgb(36, 27, 35);
+    width: 220px;
+    font-size: 20px;
+    background-color: rgb(238, 214, 245);
+    text-align: center;
+}
+
+.pie {
+    clear: both;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: cursive;
+    text-align: center;
+    background: rgb(151, 137, 153);
+    margin: 10px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.pie2 img {
+    margin-left: 30px;
+    text-align: right;
+}
+
+article footer {
+    text-align: right;
+    font-size: 18px;
+}
+
+article .p1 {
+    font-size: 19px;
+    font-family: cursive;
+}
+
+time {
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+img {
+    width: 225px;
+    margin: auto;
+}
+
+.p2 {
+    font-size: 16px;
+    font-family: cursive;
+    text-align: right;
+}
+
+a {
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
